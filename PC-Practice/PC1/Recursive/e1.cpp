@@ -23,5 +23,4 @@ void binary(int number, int& binary_number) {
 
 	int number_module = number % 2;
 	binary_number = binary_number * 10 + number_module;
-	//cout << number % 2;
 }
