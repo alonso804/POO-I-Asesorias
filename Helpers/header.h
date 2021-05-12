@@ -1,0 +1,6 @@
+#ifndef NOMBRE_HEADER_H
+#define NOMBRE_HEADER_H
+
+
+
+#endif //NOMBRE_HEADER_H
