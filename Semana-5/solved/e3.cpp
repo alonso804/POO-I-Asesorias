@@ -24,6 +24,8 @@ int main(int argc, char *argv[]) {
 	cout << "Sorted: ";
 	print(my_array, size);
 
+	delete [] my_array;
+
 	return 0;
 }
 

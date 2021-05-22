@@ -24,6 +24,8 @@ int main(int argc, char *argv[]) {
 	insertionSort(mi_array, tamano);
 	cout << "Ordenado: ";
 	print(mi_array, tamano);
+
+	delete [] mi_array;
 	
 	return 0;
 }
